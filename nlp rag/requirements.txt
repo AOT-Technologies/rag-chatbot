@@ -1,0 +1,12 @@
+pypdf
+langchain
+chromadb # Vector storage
+pytest
+boto3
+langchain-community
+streamlit
+beautifulsoup4
+requests
+pandas
+html2text
+sentence-transformers

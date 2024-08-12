@@ -1,0 +1,7 @@
+
+nlp rag/.DS_Store
+nlp rag/.idea/*
+*/__pycache__/*
+nlp rag/alembic/__pycache__/env.cpython-312.pyc
+*.pyc
+
