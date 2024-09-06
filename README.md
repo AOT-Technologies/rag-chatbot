@@ -20,7 +20,7 @@ This project implements a question-answering system using Langchain, Chroma, and
     ```
 
 ## Architecture
-![RAG](./nlp rag/RAG.png)
+![RAG](./nlp%20rag/RAG.png)
 
 ## Usage
 
