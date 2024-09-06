@@ -46,7 +46,7 @@ with col1:
     st.image('logo/bcgov.jpeg', use_column_width=True)
 
 with col2:
-    st.title("MCFD - Ask a Question")
+    st.title("GovQuery - Ask a Question")
     st.write("Ask a question regarding the policies to get a generative answer!\n"
              "Select 'PDF documents' to generate answer based on the provided PDF docs, "
              "or select 'Website' to generate answer based on web data.")
