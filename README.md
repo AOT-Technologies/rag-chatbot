@@ -20,7 +20,7 @@ This project implements a question-answering system using Langchain, Chroma, and
     ```
 
 ## Architecture
-![RAG](./RAG.png)
+![RAG](./nlp rag/RAG.png)
 
 ## Usage
 
@@ -86,3 +86,6 @@ python query_data.py "Your query here"
 ```sh
 streamlit run app.py
 ```
+
+## Contact 
+Please send an email to sumesh.pk@aot-technologies.com for a demo or to get know more about this prototype.
